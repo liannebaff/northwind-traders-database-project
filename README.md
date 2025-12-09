@@ -110,3 +110,14 @@ ON Orders.CustomerID=Customers.CustomerID INNER JOIN Employees ON Orders.Employe
 - Strengthened understanding of filtering, joining tables, and aggregating data and improved ability to build queries.
 - Gained confidence using SQL to explore and summarise real-world datasets.
 
+---
+### 📂 Files in this Repo
+- [`Northwind_Basic_Queries.sql`](sql_queries/Northwind_Basic_Queries.sql)  
+  - Foundational SQL such as `SELECT`, `WHERE`, `ORDER BY`, `SELECT DISTINCT`, `IN`, `LIKE`, `BETWEEN` and aggregate functions.
+
+- [`Northwind_Joins_Aggregates_Aliasing_Queries.sql`](sql_queries/Northwind_Joins_Aggregates_Aliasing_Queries.sql)  
+  - `INNER/LEFT/RIGHT/CROSS JOIN`, filtering, aggregate functions, aliasing, `CONCAT_WS`.
+
+- [`Northwind_Mixed_Queries.sql`](sql_queries/Northwind_Mixed_Queries.sql)  
+  -Mixed practice tasks using the Northwind dataset, combining: joins, aggregate functions, filtering, grouping sorting and aliasing.
+ 
