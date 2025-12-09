@@ -1,10 +1,10 @@
 # 📦 Northwind Traders Database Project
 
 ### 📝 Project Summary
-This project explores the Northwind Traders relational database using MySQL and MySQL Workbench. The aim was to explore and maniplulate data using structured queries and demonstrate practical data analysis skills including querying, joining tables, aggregating data, and generating insights relevant to sales, customers, products and suppliers.
+This project explores the Northwind Traders relational database using MySQL and MySQL Workbench. The aim was to explore and manipulate data using sQL queries and demonstrate practical data analysis skills including querying, joining tables, aggregating data, and generating insights relevant to sales, customers, products and suppliers.
 
 ### 🎯 Key Skills Demonstrated:
-`MySQL` &nbsp; `SQL querying and joins` &nbsp; `Exploratory data analysis` &nbsp; `Query structuring` &nbsp; `Data aggregation and filtering`
+`MySQL` &nbsp; `SQL querying and joins` &nbsp; `Exploratory data analysis` &nbsp; `Query structuring` &nbsp; `Data aggregation and filtering` &nbsp; 'String manipulation`
 
 ### 🧰 Tools & Technologies
 - **SQL:** MySQL
@@ -51,7 +51,7 @@ This section outlines how I explored the Northwind database using SQL, including
 - Explored table structures and relationships using the EER diagram.
 - Identified key fields for joining tables across `customers` `orders` `order details` `
   products`.
-- Practiced filtering, grouping and aggregation to analyse the data.
+- Practiced filtering, grouping and aggregating data to analyse the dataset.
 
 #### ⚙️ SQL Operations in Practice
 
@@ -113,11 +113,11 @@ ON Orders.CustomerID=Customers.CustomerID INNER JOIN Employees ON Orders.Employe
 ---
 ### 📂 Files in this Repo
 - [`Northwind_Basic_Queries.sql`](sql_queries/Northwind_Basic_Queries.sql)  
-  - Foundational SQL such as `SELECT`, `WHERE`, `ORDER BY`, `SELECT DISTINCT`, `IN`, `LIKE`, `BETWEEN` and aggregate functions.
+  - Foundational SQL such as `SELECT`, `WHERE`, `ORDER BY`, `SELECT DISTINCT`, `IN`, `LIKE`, `BETWEEN`, aliasing and aggregate functions.
 
 - [`Northwind_Joins_Aggregates_Aliasing_Queries.sql`](sql_queries/Northwind_Joins_Aggregates_Aliasing_Queries.sql)  
-  - `INNER/LEFT/RIGHT/CROSS JOIN`, filtering, aggregate functions, aliasing, `CONCAT_WS`.
+  - Joins, filtering, aggregate functions and aliasing.
 
 - [`Northwind_Mixed_Queries.sql`](sql_queries/Northwind_Mixed_Queries.sql)  
-  -Mixed practice tasks using the Northwind dataset, combining: joins, aggregate functions, filtering, grouping sorting and aliasing.
+  - Mixed practice tasks using the Northwind database: joins, aggregate functions, filtering, grouping sorting and aliasing.
  
