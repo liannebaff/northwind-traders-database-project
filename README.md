@@ -21,7 +21,7 @@ The Northwind Traders database is a sample relational database simulating a smal
 
 ---
 
-### ⚙️ SQL Operations Demonstrated:
+### ⚙️ SQL Operations Demonstrated
 
 | Operation                           | Purpose                                                        |
 |-------------------------------------|----------------------------------------------------------------|
