@@ -4,7 +4,7 @@
 This project explores the Northwind Traders relational database using MySQL and MySQL Workbench. The aim was to explore and manipulate data using SQL queries and demonstrate practical data analysis skills including querying, joining tables, aggregating data, and generating insights relevant to sales, customers, products and suppliers.
 
 ### 🎯 Key Skills Demonstrated:
-`MySQL` &nbsp; `SQL querying and joins` &nbsp; `Exploratory data analysis` &nbsp; `Query structuring` &nbsp; `Data aggregation and filtering` &nbsp; 'String manipulation`
+`MySQL` &nbsp; `SQL querying and joins` &nbsp; `Exploratory data analysis` &nbsp; `Query structuring` &nbsp; `Data aggregation and filtering` &nbsp; `String manipulation`
 
 ### 🧰 Tools & Technologies
 - **SQL:** MySQL
