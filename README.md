@@ -120,4 +120,6 @@ ON Orders.CustomerID=Customers.CustomerID INNER JOIN Employees ON Orders.Employe
 
 - [`Northwind_Mixed_Queries.sql`](sql_queries/Northwind_Mixed_Queries.sql)  
   - Mixed practice queries using the Northwind database: joins, aggregate functions, filtering, grouping sorting and aliasing.
+- [`Northwind Database_Create.sql`](Northwind_Database_Create.sql)
+  - Contains setup queries for creating tables and initial structure for the Northwind Traders database.
  
